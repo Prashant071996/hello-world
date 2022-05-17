@@ -1,2 +1,4 @@
 # hello-world
-hello
+a=hello
+print(hello)
+
